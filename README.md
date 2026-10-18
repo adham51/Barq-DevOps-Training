@@ -1,1 +1,1 @@
-"# Barq DevOps Training" 
+Barq DevOps Training
